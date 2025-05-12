@@ -1,0 +1,13 @@
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\bin\Debug\Econtact.exe.config
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\bin\Debug\Econtact.exe
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\bin\Debug\Econtact.pdb
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.AssemblyReference.cache
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.Econtact.resources
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.CoreCompileInputs.cache
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.exe
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.pdb
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bayan\Desktop\Bayan\Econtact\Econtact\Econtact\obj\Debug\Econtact.csproj.Up2Date
